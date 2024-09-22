@@ -23,8 +23,10 @@ Live Demo - https://quantumcoding123.github.io/Day-101-Responsive-Gaming-Website
 
 # Output - 4
 
-![Screenshot (831)](https://github.com/user-attachments/assets/63a8e1e8-fdcc-4c81-9cee-315c456fe077)
+![image](https://github.com/user-attachments/assets/ac1e1c82-9a88-410a-8ace-464638bdcab1)
+
 
 # Output - 5
 
-![Screenshot (832)](https://github.com/user-attachments/assets/1a280bcd-8989-4716-b6f9-76b236090925)
+![image](https://github.com/user-attachments/assets/395e6290-7339-4a50-9b0d-4c33404280d5)
+
